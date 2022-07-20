@@ -1,0 +1,3 @@
+/home/khang/me/hw1_final/build/CMakeFiles/gui.dir
+/home/khang/me/hw1_final/build/CMakeFiles/edit_cache.dir
+/home/khang/me/hw1_final/build/CMakeFiles/rebuild_cache.dir
